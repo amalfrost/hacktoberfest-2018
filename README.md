@@ -53,6 +53,10 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - First year Computer Science student
 - [![github-alt][github-img]](https://github.com/Aarushi2405)
 
+### Amalraj
+- Third year Computer Science student
+- [![github-alt][github-img]](https://github.com/amalfrost)
+
 ### Ayush Gupta
 - Web & Mobile App Developer
 - Photographer
